@@ -11,8 +11,8 @@ ladder = {
     80: 99
 }
 
-
 # Snake : Jump down
+
 snake = {
     17: 7,
     30: 2,
